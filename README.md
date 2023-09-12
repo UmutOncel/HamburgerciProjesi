@@ -1,0 +1,4 @@
+# Hamburgerci Projesi
+Günlük hayatın içerisinde, bir stant önünden yiyecek siparişi verirken izlediğimiz yolları gözünüzün önüne getirin. Öncelikle yemek istediğimiz ürüne veya ürünlere karar veriyoruz. Bir menü tercihi yapıyoruz, içeceklerimizi seçiyoruz. İstemediğimiz ürünlerin menüden çıkartılmasını isteyebiliyoruz, sıramızı bekliyoruz sonrasında siparişimizi vererek ücretimizi ödüyoruz ve siparişimizin hazırlanmasını bekliyoruz. Siparişimizin hazırlandığı bildirildiği taktirde gidip siparişimizi teslim alıyoruz. 
+
+Bu projede OOP prensiplerine bağlı kalarak yukarıda belirtilen örnekte olduğu gibi çalışan bir uygulama yazdım. Programda temel olarak müşteriler, ürünler ve sabit miktarda çalışan bulunmaktadır. Her ürünün kendisine göre bir üretim süresi bulunmaktadır. Bir çalışan aynı anda hem sipariş edilen ürünü hazırlayıp, hem de sipariş alamamaktadır. Üretimde olan çalışanların tamamı dolu oldukları taktirde sipariş alımı gerçekleştirilememektedir.
